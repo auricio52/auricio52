@@ -8,9 +8,13 @@
 <a href="https://git-scm.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width = "40"/> </a>&nbsp;
 <a href="https://nodejs.org/en/"> <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width = "40"/> </a>&nbsp;
 <a href="https://www.learn-html.org/"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width = "40"/> </a>&nbsp;
-<a href="https://www.postgresql.org/"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/></a>&nbsp;
-<a href="https://www.javascript.com/"> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" width = "38"/></a>&nbsp;
-<a href="https://www.markdownguide.org/"> <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" width = "50"/> </a>&nbsp;
+<a href="https://www.postgresql.org/"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/> </a>&nbsp;
+<a href="https://www.javascript.com/"> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" width = "38"/> </a>&nbsp;
+<a href="https://dart.dev/"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" width = "42"/> </a>&nbsp;
+<a href="https://flutter.dev/"> <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width = "34"/> </a>&nbsp;
+<a href="https://soliditylang.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/512px-Solidity_logo.svg.png" width = "26"/> </a>&nbsp;
+<a href="https://pt-br.reactjs.org/"> <img src="https://user-images.githubusercontent.com/51960159/123526671-d967a000-d6af-11eb-9bec-2f131d03407c.png" width = "46"/> </a>&nbsp;
+<a href="https://www.typescriptlang.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width = "44"/> </a>&nbsp;
 
 <!--
 **auricio52/auricio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
