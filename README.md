@@ -1,4 +1,4 @@
-### Olá, eu sou o Aurício 👋
+### Hi, i'm Aurício 👋
 [![Auricio GitHub stats](https://github-readme-stats.vercel.app/api?username=auricio52&show_icons=true&title_color=31cc99&icon_color=31cc99&text_color=bfbfbf&bg_color=151515)](https://github.com/auricio52/github-readme-stats)
 
 ![Auricio Most Used langagues](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=auricio52&layout=compact&show_icons=true&title_color=31cc99&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
