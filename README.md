@@ -30,8 +30,6 @@ The bitocoin converter is a web-based system that allows users to convert crypto
 A simple android application developed using the dart language and flutter framework. This application is a simple online store that uses blockchain technology and smart contracts to perform the process of selling items.
 
 This project helped me learn more about blockchain and smart contracts and how to integrate them into an application, and I was also able to learn how to use Microsoft Azure and do authentication with it.
-
-Translated with www.DeepL.com/Translator (free version)
  
 <!--
 **auricio52/auricio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
