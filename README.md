@@ -16,6 +16,16 @@
 <a href="https://pt-br.reactjs.org/"> <img src="https://user-images.githubusercontent.com/51960159/123526671-d967a000-d6af-11eb-9bec-2f131d03407c.png" width = "46"/> </a>&nbsp;
 <a href="https://www.typescriptlang.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width = "44"/> </a>&nbsp;
 
+### My Projects
+
+#### Mobile school
+Mobile School is an Android application that can be used to facilitate the work of teachers and students in the remote teaching method. The application allows teachers to create rooms and through a code allow students to access the room. In the room the teacher can make class material available, chat with students, and give quizzes.
+
+With the development of this project I could apply my knowledge in dart, flutter and firebase.
+
+#### Bitcoin converter
+The bitocoin converter is a web-based system that allows users to convert cryptocurrencies into euros, dollars and other currencies.
+ 
 <!--
 **auricio52/auricio52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
