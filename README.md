@@ -26,7 +26,7 @@ Com o desenvolvimento deste projecto, pude aplicar os meus conhecimentos em dard
 #### Bitcoin converter
 O conversor de bitcoin é um sistema web que permite aos usuários converter criptomoedas em euro, dólar e outras moedas.
  
-#### Online store
+#### Loja online
 Uma aplicação simples de andróid desenvolvida utilizando a linguagem de dart e o framework flutter. Esta aplicação é uma simples loja online que utiliza a tecnologia blockchain e contratos inteligentes para realizar o processo de venda de itens.
 
 Este projecto ajudou-me a aprender mais sobre blockchain, contratos inteligentes, como integrá-los numa aplicação e também pude aprender como utilizar o Microsoft Azure para fazer autenticação do usuário no aplicativo.
