@@ -1,7 +1,11 @@
 ### Olá, eu sou o Aurício 👋
-[![Auricio GitHub stats](https://github-readme-stats.vercel.app/api?username=auricio52&show_icons=true&title_color=31cc99&icon_color=31cc99&text_color=bfbfbf&bg_color=151515)](https://github.com/auricio52/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/auricio52">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auricio52&show_icons=true&tinclude_all_commits=true&count_private=true&title_color=31cc99&icon_color=31cc99&text_color=bfbfbf&bg_color=151515"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auricio52&layout=compact&title_color=31cc99&icon_color=31cc99&text_color=bfbfbf&bg_color=151515"/>
+</div>
 
-![Auricio Most Used langagues](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=auricio52&layout=compact&show_icons=true&title_color=31cc99&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 ### Linguagens e Ferramentas <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="18px"> :
 <h3></h3>
@@ -16,7 +20,7 @@
 <a href="https://pt-br.reactjs.org/"> <img src="https://user-images.githubusercontent.com/51960159/123526671-d967a000-d6af-11eb-9bec-2f131d03407c.png" width = "46"/> </a>&nbsp;
 <a href="https://www.typescriptlang.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width = "44"/> </a>&nbsp;
 
-### Meus Projetos
+### Meus Projetos Pessoais
 
 #### Mobile school
 Mobile School é uma aplicação Android que pode ser utilizada para facilitar o trabalho de professores e alunos no método de ensino à distância. A aplicação permite aos professores criar salas e através de um código permitir aos estudantes acederem à sala. Na sala, o professor pode disponibilizar material de aula, conversar com os alunos, e dar questionários.
@@ -26,8 +30,8 @@ Com o desenvolvimento deste projecto, pude aplicar os meus conhecimentos em dard
 #### Bitcoin converter
 O conversor de bitcoin é um sistema web que permite aos usuários converter criptomoedas em euro, dólar e outras moedas.
  
-#### Loja online
-Uma aplicação simples de andróid desenvolvida utilizando a linguagem de dart e o framework flutter. Esta aplicação é uma simples loja online que utiliza a tecnologia blockchain e contratos inteligentes para realizar o processo de venda de itens.
+#### Loja online (Blockchain)
+Uma aplicação simples de andróid desenvolvida utilizando a linguagem de dart e o framework flutter. Esta aplicação é uma simples loja online que utiliza a tecnologia blockchain e contratos inteligentes para realizar o processo de venda de produtos.
 
 Este projecto ajudou-me a aprender mais sobre blockchain, contratos inteligentes, como integrá-los numa aplicação e também pude aprender como utilizar o Microsoft Azure para fazer autenticação do usuário no aplicativo.
 
